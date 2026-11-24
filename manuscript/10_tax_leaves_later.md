@@ -48,8 +48,32 @@ Losses can be carried to other years, within rules that change. A loss that the 
 
 1. The Munich stack, with no adjustments, is 15 + 0.825 + 17.15 = 32.975 percent.
 2. On €5,600,000 the convenient tax is €1,680,000 and the stacked tax is €1,846,600.
-3. The line's yearly cash falls from €690,000 to about €681,000 at the stacked rate. A clear yes stays a yes.
+3. The line's yearly cash falls from €690,000 to €681,075 at the stacked rate. A clear yes stays a yes.
 4. Depreciation of €1,200,000 shields €360,000 a year at the 30 percent working rate.
+
+## Exhibit 10. Two rates, and the months the cash leaves
+
+| Layer | Rate |
+| --- | ---: |
+| Corporate income tax | 15% |
+| Solidarity surcharge, 5.5% of that tax | 0.825% |
+| Munich trade tax, 3.5% × a multiplier of 490% | 17.15% |
+| Stack, before adjustments | 32.975% |
+| Rate this book uses so you can check the sums | 30% |
+
+| On profit before tax of €5,600,000 | € |
+| --- | ---: |
+| At 30 percent | 1,680,000 |
+| At 32.975 percent | 1,846,600 |
+| The convenience | 166,600 |
+
+The line's yearly cash was €690,000 at 30 percent. At 32.975 percent the tax on its €300,000 of operating profit is €98,925, profit after tax is €201,075, and cash is €201,075 + €480,000 = **€681,075**. A clear yes stays a yes. A yes of €50,000 does not survive the city.
+
+Trade-tax instalments fall on 15 February, 15 May, 15 August and 15 November. Corporate tax instalments fall on 10 March, 10 June, 10 September and 10 December. Four slices of the convenient €1,680,000 are €420,000 each. The dates matter more than the slice. A customer on ninety days and a tax office in February are not negotiating with each other.
+
+**Write this down.** Depreciation on the existing plant is €1,200,000. How much tax does that save at the working rate, and does the saving require a cheque?
+
+It saves €1,200,000 × 30 percent = **€360,000**, and it requires no cheque. That is why the cash of a project adds depreciation back after tax has been charged on a profit that already deducted it. You have used this once, in chapter 1. Use it the same way every time, or you will reject a machine for a cost you already paid.
 
 ## In the room
 

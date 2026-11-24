@@ -327,6 +327,53 @@ def main() -> None:
     print(f"p* {p_star:.4f} df {df:.4f} value of the right {eur(option)}")
     # if they give it away inside a 1.2m gross order
     print(f"right as a share of the €1,200,000 gross {option/order_gross:.4f}")
+    half_pay = 200_000
+    half_option = df * (p_star * half_pay + (1 - p_star) * d_pay)
+    print(f"half the pain, value of the right {eur(half_option)}")
+
+    # --- practice figures used in the exhibits ---
+    # Thin revenue on the calibration line: cash cost and depreciation unchanged.
+    thin_rev = 1_200_000
+    thin_ebit = thin_rev - a_cost - a_dep
+    thin_ocf = thin_ebit * (1 - tax) + a_dep
+    print("\nPRACTICE")
+    print(f"thin ebit {eur(thin_ebit)} ocf {eur(thin_ocf)}")
+    for rate in (0.08, 0.06):
+        print(f"thin npv at {pct(rate)} {eur(npv_project(thin_ocf, a_capex, a_nwc, rate))}")
+
+    beta_firm = 1.20
+    ke_firm = rf + beta_firm * erp
+    wacc_firm = (equity / v) * ke_firm + (debt / v) * rate_debt * (1 - tax)
+    print(f"beta 1.20 ke {pct(ke_firm)} wacc {pct(wacc_firm)} exact {wacc_firm:.6f}")
+
+    # Bad year: cover of 4 on EBIT 2.8m allows interest of 700k. Old loan already costs 400k.
+    interest_room = ebit_down / 4 - interest
+    debt_room = interest_room / rate2
+    print(f"interest room {eur(interest_room)} new debt room at 5.5% {eur(debt_room)}")
+
+    order_cost = 3_600_000
+    interest_30 = order_cost * rate_debt * 30 / 365
+    print(f"thirty-day interest on the order {eur(interest_30)}")
+
+    # Buyer stands on the peer equity value, then takes 25% off Ingrid's 20%.
+    peer_equity = 42_400_000
+    ingrid_peer = peer_equity * ingrid
+    ingrid_discounted = ingrid_peer * 0.75
+    print(f"ingrid at 25% off the multiple {eur(ingrid_discounted)}")
+
+    # Keep the revised line versus a dealer who pays 1.5m and takes the parts at cost.
+    keep_pv = a_ocf_low * annuity(0.06, years) + pv(a_nwc, 0.06, years)
+    dealer_now = 1_500_000 + a_nwc
+    print(f"keep pv {eur(keep_pv)} five cash flows {eur(a_ocf_low * annuity(0.06, years))} parts pv {eur(pv(a_nwc, 0.06, years))}")
+    print(f"dealer plus parts {eur(dealer_now)} stop ahead by {eur(dealer_now - keep_pv)}")
+
+    # Same line, tax at the Munich stack instead of 30%.
+    muc_tax_on_ebit = a_ebit * munich
+    muc_cash = a_ebit - muc_tax_on_ebit + a_dep
+    print(f"line cash at munich stack {eur(muc_cash)} tax on ebit {eur(muc_tax_on_ebit)}")
+
+    flattery_share = warranty / gross
+    print(f"warranty flattery as a share of gross profit {flattery_share:.5f}")
 
     # per-share and a few check totals
     print("\nCHECKS")

@@ -36,7 +36,7 @@ Add the first two and subtract the third. The firm's cash is out for **73 days**
 
 **Your number.** Suppose the chain will accept sixty days if Hartfeld drops the price by €80,000. Do you take that?
 
-The carry shortens by thirty days. Interest saved is about half of €44,384, call it €15,000, which is less than €80,000. On interest alone, you do not give up €80,000 to save thirty days.
+The carry shortens by thirty days. Interest saved is €14,795, which is less than €80,000. On interest alone, you do not give up €80,000 to save thirty days.
 
 You might give it up anyway, if the ninety days would stack on another late customer and push the fence, or if Klaus's rule is that no single customer may have more than €2,000,000 outstanding. €6,000,000 for ninety days breaks a rule the interest calculation does not know. The Monday question is which rule is real.
 
@@ -64,6 +64,35 @@ Tax did not appear either. The profit will be taxed. The cash for the tax may be
 2. Interest at 5 percent is €44,384. The order survives that cost.
 3. Ordinary cash is already out for 73 days: 46 of customers, plus 73 of inventory, minus 46 of suppliers.
 4. Giving up €80,000 of price to save thirty days of interest does not pay. Giving it up to avoid scrap, or a broken house rule, might.
+
+## Exhibit 7. The ninety days
+
+| Day | What happens | Cash of this order |
+| --- | --- | ---: |
+| 0 | Hartfeld accepts, and orders the parts | 0 |
+| 30 | Hartfeld pays €3,600,000 and ships | −3,600,000 |
+| 120 | The chain pays €6,000,000 | +2,400,000 |
+
+The last cell is the profit, and it arrives ninety days after the cheque. Until then the profit is a story you are financing.
+
+Interest: €3,600,000 × 0.05 × 90 / 365 = **€44,384**.
+
+Gross profit after that carry: €2,400,000 − €44,384 = **€2,355,616**.
+
+The ordinary year, without this order, already has cash out for 73 days.
+
+| | Days |
+| --- | ---: |
+| Customers (€5,000,000 / €40,000,000 × 365) | 46 |
+| Inventory (€4,800,000 / €24,000,000 × 365) | 73 |
+| Suppliers, a relief (€3,000,000 / €24,000,000 × 365) | 46 |
+| Cash out, net | 73 |
+
+## If they will not wait ninety
+
+Thirty days less of carry saves €3,600,000 × 0.05 × 30 / 365 = **€14,795**. A price cut of €80,000 is more than five times the interest you save. You do not buy thirty days at that price for the interest's sake.
+
+You might buy them for a different reason. A house rule that no customer may owe more than €2,000,000 makes the €6,000,000 order illegal inside the firm, whatever the margin says. If that rule is real, the interesting offer is a smaller order, not a cheaper one. Ask Klaus whether the rule is real before you negotiate the days. A rule he will waive for a good name is not a rule. It is a story you tell the bank.
 
 ## In the room
 

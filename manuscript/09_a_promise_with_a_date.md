@@ -28,11 +28,11 @@ A dealer will pay €1,500,000 for the installed line. The parts can be sold at 
 
 Keeping, at 6 percent, is the present value of five times €270,000 plus the parts in five years. That is **€1,361,500**, near enough. The ledger's unrounded figure is €1,361,516.
 
-Stopping is ahead by about €440,000. Not because the original decision looks foolish in the rear-view mirror. Because a person with a chequebook is offering more than the future cash.
+Stopping is ahead by €438,484. Not because the original decision looks foolish in the rear-view mirror. Because a person with a chequebook is offering more than the future cash.
 
 **Your number.** Suppose the dealer offers €900,000 and the parts are unsaleable, worth something only if the line keeps running. Do you stop?
 
-Keeping is still about €1,361,500, and that figure included the parts coming back. If the parts are unsaleable outside the line, the dealer's €900,000 is the whole of stopping. You keep. The parts and the thin cash beat a low offer. The sunk cost still does not get a vote. The offer does.
+Keeping is still €1,361,516, and that figure included the parts coming back. If the parts are unsaleable outside the line, the dealer's €900,000 is the whole of stopping. You keep. The parts and the thin cash beat a low offer. The sunk cost still does not get a vote. The offer does.
 
 ## Three hands
 
@@ -56,8 +56,29 @@ The other silence is the two technicians. Selling the line does not unhire them 
 
 1. At €900,000 of revenue and €720,000 of cash cost, yearly cash from the line is €270,000, not negative.
 2. Known at the start, the net present value at 6 percent is −€1,338,484. You would have refused it.
-3. With the money spent, keeping is worth about €1,361,500. Selling at €1,500,000 and recovering the parts at cost puts €1,800,000 in the bank. You stop.
+3. With the money spent, keeping is worth €1,361,516. Selling at €1,500,000 and recovering the parts at cost puts €1,800,000 in the bank. You stop.
 4. The original cheque does not belong in that comparison.
+
+## Exhibit 9. The decision you can still make
+
+The original cheque is spent. It appears in neither column.
+
+| | Keep the line | Stop, and take the dealer |
+| --- | ---: | ---: |
+| Cash each year, five years | 270,000 | — |
+| Parts, at the end or now | 300,000 at the end | 300,000 now, at cost |
+| Dealer, today | — | 1,500,000 |
+| Worth today, at 6 percent | 1,361,516 | 1,800,000 |
+
+Five payments of €270,000 at 6 percent are worth €1,137,338. The parts in five years are worth €224,177. Together, €1,361,516. The dealer plus the parts today is €1,800,000. Stopping is ahead by €438,484.
+
+**Write this down.** The dealer cuts the offer to €900,000 and will not take the parts. The parts are worthless unless the line runs. Do you stop?
+
+Stopping is now only €900,000. Keeping is still €1,361,516, and that figure needs the parts to come back through the line. You keep. The original €2,400,000 still does not get a vote. The offer got smaller, so the answer changed. That is what a new decision feels like. It is allowed to disagree with January.
+
+## How the €270,000 was built
+
+Revenue €900,000. Cash costs €720,000. Depreciation €480,000. Operating profit −€300,000. The loss saves €90,000 of tax against the rest of the firm's profit. Cash is −€300,000 + €90,000 + €480,000 = €270,000. If the rest of the firm has no profit to set the loss against, the €90,000 does not arrive this year, and keeping is worth less than the table says. Ask that question before you fall in love with a weak line for its tax.
 
 ## In the room
 

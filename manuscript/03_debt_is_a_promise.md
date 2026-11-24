@@ -72,6 +72,30 @@ Personal guarantees are not in the case either. In a firm this size they are som
 3. A €4,000,000 EBITDA year breaks both lines: 2.90 and 3.84.
 4. Interest on the combined debt is €730,000, not €14,000,000 times 5.5 percent. The old €8,000,000 stays at 5 percent.
 
+## Exhibit 3. The fence in two years
+
+| | This year, with the new loan | The bad year |
+| --- | ---: | ---: |
+| Debt | 14,000,000 | 14,000,000 |
+| Cash, if it holds | 2,400,000 | 2,400,000 |
+| Net debt | 11,600,000 | 11,600,000 |
+| EBITDA | 7,200,000 | 4,000,000 |
+| Operating profit | 6,000,000 | 2,800,000 |
+| Interest | 730,000 | 730,000 |
+| Net debt / EBITDA | 1.61 | 2.90 |
+| Cover | 8.2 | 3.84 |
+| Fence | holds | breaks both lines |
+
+Interest is not €14,000,000 × 5.5 percent. The old €8,000,000 stays at 5 percent, which is €400,000. The new €6,000,000 at 5.5 percent is €330,000. Together, €730,000. Write the two loans on two lines or you will invent a rate the bank did not offer.
+
+## Size it backwards
+
+Amina's question can be finished with a pencil. In the bad year, operating profit is €2,800,000. Cover of 4 allows interest of €2,800,000 / 4 = **€700,000**. The old loan already costs €400,000. Room for new interest is €300,000. At 5.5 percent that is **€5,454,545** of new debt, and only if the cash pile does not shrink in the same year. The offer of €6,000,000 is past that room. A loan of €5,000,000 would leave a little air. Show Klaus both, and let him pick the air.
+
+**Write this down.** If cash also falls by €1,000,000 in the bad year, what happens to net debt, before you even talk about cover?
+
+It rises by €1,000,000, to €12,600,000. The ratio gets worse than 2.90. Cash is part of the fence. A forecast that holds cash flat in a bad year is a gentle forecast.
+
 ## In the room
 
 The question is the debt-policy question. How much is enough, once tax makes debt look free? The page the case leaves out is the covenant in the year the sales are not there, and the person whose name is on the relationship.

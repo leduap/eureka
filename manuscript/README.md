@@ -1,6 +1,6 @@
 # The Finance Blue Book
 
-Draft manuscript for a trade book, not for self-publishing.
+Editing manuscript for a trade book, not for self-publishing.
 
 **Title.** The Finance Blue Book
 

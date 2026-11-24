@@ -57,6 +57,27 @@ The other silence is the accounting line. A transaction loss turns up in profit.
 3. A hedge at 1.09 locks in €3,669,725 and costs €33,979 against the original plan rate.
 4. The open position is the speculative one, when a conversion is coming.
 
+## Exhibit 11. The same dollars, three rulers
+
+| Dollars per euro | What $4,000,000 is worth | Against the plan |
+| ---: | ---: | ---: |
+| 1.08, the plan | 3,703,704 | — |
+| 1.09, the hedge | 3,669,725 | costs 33,979 |
+| 1.14, the later rate | 3,508,772 | costs 194,932 |
+
+Divide dollars by the number of dollars a euro buys. Do not multiply. A higher number of dollars per euro means a cheaper dollar and fewer euros. The direction is where people lose the plot in the meeting. Say it once, slowly.
+
+**Write this down.** Ohio will spend the whole $4,000,000 on wages in Ohio. Munich hedges it into euros at 1.09 anyway. What have you done?
+
+You have sold dollars you needed. The wages still want dollars. You now have a euro receipt and a dollar bill, which is a new bet, created by the thing Klaus thought was caution. Hedge the pile you will exchange. A target, and a wage bill in the same currency as the sales, are not that pile.
+
+## Two questions, in this order
+
+1. Which dollars will be converted into euros, and in which month?
+2. Only then: what is the forward price of that month?
+
+If you cannot answer the first, you are not ready for the second. The bank will sell you the second anyway. That is not the same as it being your position.
+
 ## In the room
 
 The question is the currency question. Which unit is the wealth in? The page the case leaves out is whether the money is coming home.

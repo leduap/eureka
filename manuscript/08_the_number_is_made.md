@@ -51,6 +51,27 @@ The other silence is the audit, if there is one, and the tax office, which has i
 3. Leaving the provision out flatters gross profit by €36,000.
 4. A covenant, a multiple, and a value built on this profit inherit the flattery.
 
+## Exhibit 8. The truck, two ways
+
+| | The salesperson's year | The year with the dent booked |
+| --- | ---: | ---: |
+| Revenue in December | 900,000 | 900,000 |
+| Cost of the tools | 540,000 | 540,000 |
+| Provision for returns and repairs, 4% | 0 | 36,000 |
+| Gross profit | 360,000 | 324,000 |
+| Cash in December | 0 | 0 |
+| Cash when the customer pays | February, if they pay | February, if they pay |
+
+Four percent is the policy because the last three years cost about that much. It is not a measurement of this chain. Write "policy" next to it. In March, someone has to look at what this chain actually returned and change the 4 percent if it was a fairy tale. If that someone does not exist, the provision is a paragraph.
+
+**Write this down.** The year's gross profit, without this truck, is €16,000,000. What share of the year is the €36,000 of flattery?
+
+€36,000 / €16,000,000 is **0.225 percent**. Tiny, and still enough to turn a missed promise into a kept one if the promise was missed by less than that. Size is not the test. The test is whether the photograph is what you say it is.
+
+## Where the flattery travels
+
+Chapter 6 divided cash by a rate and multiplied operating profit by eight. Both of those eat profit. A profit with the returns left out is a larger value and a calmer covenant. Sabine, if she asks for the cash collected by the morning of the board, will not be fooled by the truck. A bonus paid on booked profit will. Ask, before the year is closed, who is paid on which page.
+
 ## In the room
 
 The question is the question behind every statement. What was estimated, and who benefits if the estimate is kind? The page the case leaves out is the pay packet tied to the photograph.

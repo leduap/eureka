@@ -54,6 +54,29 @@ The other silence is Hartfeld itself. There is no ticker. Klaus cannot look up w
 2. Reading the same article later is not an advantage.
 3. A fund that tracks an index buys a new member because it promised to, at the price of that day.
 
+## Exhibit 5. What the headline already did
+
+| | Before you finished the article |
+| --- | --- |
+| The fact | Nordmess lost a French contract |
+| Who knew | anyone with the trade paper, and the market before them |
+| The price | down 9 percent |
+| Your edge an hour later | none |
+| A useful next act | ask whether Hartfeld can do the work the contract left behind |
+
+The 9 percent is not a number you check. It is a number you refuse to trade on. The useful question is commercial. A customer in France may now be short of tools. That is Piotr's phone call, and it does not require you to own Nordmess.
+
+## The index, in four lines
+
+1. A fund promises to own what the index owns.
+2. The index adds a new company.
+3. The fund buys, that day, at that price, with every other fund that made the same promise.
+4. Waiting for a better price would break the promise. The price of the promise is sometimes a high one.
+
+**Write this down.** Your own savings, if they sit in a fund that tracks an index on the day of entry, will buy that new company. Is that a reason to leave the fund?
+
+Not by itself. It is a reason to know which index you bought, and whether it waits before a new listing goes in. The cost of being average includes this bill. The cost of not being average is a manager, a fee, and a fresh chance to be wrong. Chapter 2 already chose, for money the family is not using in the firm. This chapter only tells you to read the rule you already accepted.
+
 ## In the room
 
 The question is the market-efficiency question. What is already in the price? The page the case leaves out is the buyer who is obliged to pay it.

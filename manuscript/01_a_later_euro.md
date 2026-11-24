@@ -28,13 +28,13 @@ Cash is €210,000 + €480,000 = €690,000. Same answer, every year, in this c
 
 You give up €2,700,000 today: the machine and the parts. You receive €690,000 a year for five years, and you receive the €300,000 of parts back at the end.
 
-At 8 percent, five equal payments of €1 are worth €3.9927 today. Five payments of €690,000 are worth about €2,755,000. The parts, discounted five years, are worth about €204,000. Against €2,700,000 given up, the line is worth about €259,000 more than it costs.
+At 8 percent, five equal payments of €1 are worth 3.99271 today. Five payments of €690,000 are worth €2,754,970. The parts, discounted five years, are worth €204,174. Set those against the €2,700,000 given up and you are one euro short of the ledger. The ledger's answer is €259,145. The exhibit puts the last euro back.
 
 The ledger, which does not round in the middle, says **€259,145**.
 
 Yes. You buy it. The course would give you the marks.
 
-**Your number.** Do it again at 6 percent, still in your head if you can. The five-year factor at 6 percent is 4.2124. Is the line more attractive, or less?
+**Your number.** Do it again at 6 percent, still in your head if you can. The five-year factor at 6 percent is 4.21236. Is the line more attractive, or less?
 
 It is more attractive. A lower hurdle makes future euros heavier, not lighter. The ledger's net present value at 6 percent is **€430,708**. Martin has been using a hurdle that is harder than the one the next chapter will build. He has been rejecting lines that clear a fair rate. That is a family habit, not a theorem. Write it in the margin. You will need it in February.
 
@@ -72,6 +72,54 @@ The Monday rule is one sentence. **Do not approve a positive net present value u
 4. The bank balance, before any customer pays, is €300,000 overdrawn. Cash of €2,400,000 minus machines of €2,400,000 minus parts of €300,000.
 
 If your net present value was a few thousand either side, your factor was rounded. The decision does not change. If your net present value was negative, you subtracted depreciation twice, or you discounted the depreciation as well as the cheque.
+
+## Exhibit 1. The line, on one card
+
+| | € |
+| --- | ---: |
+| Machine, paid before it runs | 2,400,000 |
+| Parts on the shelf, back at the end | 300,000 |
+| Extra revenue, each year | 1,500,000 |
+| Extra cash costs, each year | 720,000 |
+| Depreciation, each year | 480,000 |
+| Operating profit, each year | 300,000 |
+| Tax at 30 percent | 90,000 |
+| Cash, each year | 690,000 |
+| Life | 5 years |
+| Family's hurdle | 8 percent |
+
+Five equal euros at 8 percent are worth 3.99271 today. One euro in five years is worth 0.68058. You can stop there and do the rest by hand.
+
+| Piece | How | € today |
+| --- | ---: | ---: |
+| Five cash flows of €690,000 | × 3.99271 | 2,754,970 |
+| Parts returned | €300,000 × 0.68058 | 204,174 |
+| Cash given up today | machine + parts | −2,700,000 |
+| Net present value | the ledger, unrounded | 259,145 |
+
+2,754,970 + 204,174 − 2,700,000 = 259,144, which is the ledger's €259,145 once the last euro of rounding is put back. The decision uses €259,145. A slip of a euro will not move you from yes to no.
+
+## The bank, month by month
+
+The supplier will take half the machine in January and half in February. The parts leave in February. Nothing comes back from a customer until sixty days after the first sale, and the first sale is not in February.
+
+| | What leaves | Cash left |
+| --- | --- | ---: |
+| Open | the firm's cash | 2,400,000 |
+| January | half the machine | 1,200,000 |
+| February | the rest of the machine, and the parts | −300,000 |
+
+**Write this down.** Who, by name, covers the €300,000, and in which month do the customers start to refill it?
+
+If your answer is "the positive net present value covers it," read the table again. A value is not a deposit.
+
+## A second cold call
+
+Same machine. Same costs. The salesperson can only stand behind €1,200,000 of extra revenue, not €1,500,000. Operating profit falls to zero: €1,200,000 − €720,000 − €480,000. Cash is the depreciation alone, €480,000 a year, because a zero profit pays no tax and the depreciation is still not a cheque.
+
+At 8 percent the net present value is **−€579,324**. At 6 percent it is still **−€453,888**.
+
+You refuse. A line that only returns its own depreciation, and only as a tax-free add-back, does not pay for itself. This is the version Martin should have been shown beside the hopeful one. A case with a single column of revenue is a case that has already chosen the answer.
 
 ## In the room
 

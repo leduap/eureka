@@ -71,6 +71,27 @@ The other silence is the bank. €5,600,000 of net debt comes off the end. If th
 3. The gap is an 8.75 percent buyer versus a 6 percent buyer, or a doubt that the cash lasts. It is not a suggestion to say €59,000,000.
 4. Ingrid's 20 percent is €12,880,000 on the cash and €8,480,000 on the multiple, before any discount for being unable to sell.
 
+## Exhibit 6. The two values, side by side
+
+| | Steady cash at 6% | Eight times operating profit |
+| --- | ---: | ---: |
+| What you start from | €4,200,000 a year | €6,000,000 of operating profit |
+| The business | 70,000,000 | 48,000,000 |
+| Net debt taken off | 5,600,000 | 5,600,000 |
+| The family's claim | 64,400,000 | 42,400,000 |
+| Ingrid's 20 percent | 12,880,000 | 8,480,000 |
+| The hidden sentence | "last year continues, and 6% is enough" | "a listed peer is the ruler" |
+
+€4,200,000 / €48,000,000 = 8.75 percent. The multiple is what you would pay if you wanted 8.75 percent on the same steady cash, or if you did not believe the cash would stay. Write that sentence under the table. If you cannot write it, you do not yet know why the two numbers differ, and you are not ready to speak to Klaus.
+
+## A buyer's discount, said plainly
+
+Both numbers above pretend a buyer can sell on Monday. Ingrid's buyer cannot. He will be a minority next to Klaus, in a company with no ticker and a house bank that takes Klaus's calls. He will ask for a discount. The course is right to give it a name. The meeting is right to argue the size. Ten percent is a mood. Thirty percent is a different deal. Do not pick one in the appendix and call it science. Pick one in the room, and write down what would change it: a path for him to be bought out later, a seat, a dividend policy that is not a surprise.
+
+**Write this down.** At a 25 percent discount to the multiple, what is 20 percent worth? Do it on the €8,480,000, not on the €12,880,000, because a buyer who wants a discount is already standing on the peer, not on your hope.
+
+€8,480,000 × 0.75 = **€6,360,000**. That is a number Ingrid can hate in a specific way, which is more useful than hating a range.
+
 ## In the room
 
 The question is the valuation question. Cash versus a peer, and what you do when they disagree. The page the case leaves out is the photograph: last year, offered as if it were a promise.

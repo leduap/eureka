@@ -6,7 +6,7 @@ Ashok Paudel
 
 ---
 
-This is a draft manuscript. The cases are original. They are written in the form used in the MBA finance classroom at places such as ESMT Berlin and Harvard Business School: a firm, a decision, a few numbers, and a question you are expected to answer before anyone explains it. They are not those schools' cases, and they are not a record of either course.
+This is the manuscript for editing. The cases are original. They are written in the form used in the MBA finance classroom at places such as ESMT Berlin and Harvard Business School: a firm, a decision, a few numbers, and a question you are expected to answer before anyone explains it. They are not those schools' cases, and they are not a record of either course.
 
 The arithmetic is teaching arithmetic. It is produced by `ledger/ledger.py`, which is the source of every euro in the book. The tax rate used in the running examples is 30 percent, so the sums can be checked with a calculator. A Munich company pays more than that. Chapter 10 shows the difference, and the sources are at the back.
 

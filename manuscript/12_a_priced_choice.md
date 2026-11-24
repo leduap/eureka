@@ -50,7 +50,7 @@ The Monday rule. **A right you give away is a discount. Put the discount on the 
 
 ## Where the case goes quiet
 
-The €400,000 in the tight market is a judgment, like the beta on the smart gauge. Halve it and the right is worth about €88,000, which is still not a favour. The decision to write it down survives the judgment. The price on the quote does not. Show the range.
+The €400,000 in the tight market is a judgment, like the beta on the smart gauge. Halve it and the right is worth €87,805, which is still not a favour. The decision to write it down survives the judgment. The price on the quote does not. Show the range.
 
 This chapter is not a chapter about selling options every month in a brokerage account, for income, against shares you own or cash you have set aside. That is a different activity. It has its own risks, its own tax, and its own books. Nothing in Hartfeld's promise should be used to justify it, and nothing in those books should be used to price a customer's right to double an order. The two subjects share a word. They do not share a decision.
 
@@ -62,6 +62,30 @@ One more silence, and then the blue pages. The course will let you leave believi
 2. The right is worth €175,610 today.
 3. That is 7.3 percent of the €2,400,000 gross profit on the run.
 4. "They will probably not use it" is not the same sentence as "it is worth nothing."
+
+## Exhibit 12. The right, on a postcard
+
+A simpler thing is worth €100 today, €130 in the good half-year, €80 in the bad. Safe money grows 2.5 percent in six months, so €100 of it becomes €102.50.
+
+130p + 80(1 − p) = 102.50, so p = **0.45**. That weight is not a forecast.
+
+The promise costs Hartfeld €400,000 in the good market and nothing in the bad one, because a right is dropped when it is useless.
+
+| | |
+| --- | ---: |
+| Weighted payoff | 0.45 × 400,000 = 180,000 |
+| Brought back half a year | 180,000 / 1.025 |
+| Value of the right | 175,610 |
+| Gross profit on the original run | 2,400,000 |
+| The quiet discount | 7.3 percent |
+
+**Write this down.** Halve the pain in the good market, to €200,000. What is the right worth, and do you still refuse to call it free?
+
+Half the pain, same weight, same discounting: **€87,805**. Still a number. Still a line on the quote. The judgment moves the price. It does not move the zero.
+
+## What this chapter is not
+
+It is not a method for selling options every month against shares, or against cash set aside to buy shares, in order to manufacture income. That activity has its own losses, its own tax, and its own books. Hartfeld's customer is not that activity. If you remember one separation from this book, remember that one. A shared word is not a shared decision.
 
 ## In the room
 

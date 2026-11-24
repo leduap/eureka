@@ -72,6 +72,32 @@ Also, 3 percent and 5 percent are choices. Change the market extra from 5 percen
 2. The gauge is a yes at 6 percent (€179,811) and a no at 12 percent (−€213,898).
 3. The calibration line was a yes even at 8 percent. The family hurdle was strict. It was not the same mistake as pricing the gauge like a caliper.
 
+## Exhibit 2. Two rates, two answers
+
+| | The firm | The gauge |
+| --- | ---: | ---: |
+| Beta, a judgment | 0.90 | 1.60 |
+| Cost of equity | 7.5% | 11% |
+| Rate used on the cash | 6% | 12%, as a blunt no |
+| Net present value | the line, €430,708 at 6% | €179,811 at 6%, −€213,898 at 12% |
+
+Build the firm's rate once, in this order, and do not skip a line.
+
+1. Safe euro, 3 percent.
+2. Extra for the market, 5 percent.
+3. Equity costs 3 + 0.90 × 5 = 7.5 percent.
+4. Debt costs 5 percent, and 3.5 percent after the 30 percent shield.
+5. Weights, from the books because there is no share price: equity €13,200,000, debt €8,000,000, together €21,200,000.
+6. 62 percent × 7.5, plus 38 percent × 3.5 = 5.99 percent, called 6 from here on.
+
+**Write this down.** If you decide the firm's beta is 1.20, not 0.90, what is the cost of equity, and does the weighted average stay under Martin's old hurdle of 8 percent?
+
+Cost of equity becomes 3 + 1.20 × 5 = **9 percent**. The weighted average becomes **6.92 percent**. Martin's 8 percent is still the harsher number. The argument is not that 8 was cruel. The argument is that one number was being used for a caliper and a gadget.
+
+## What to say when someone demands a regression
+
+There is no share price, so there is no regression. Say that in the first sentence, or a clever person will invent one for you out of Nordmess and call it Hartfeld. A peer's beta is a clue. It is not a measurement of this family's cash. Label the 0.90 and the 1.60 as judgments, put your name next to them, and let Klaus change them in the meeting. A judgment Klaus has seen is a better rate than a regression nobody checked.
+
 ## In the room
 
 The question is the divisional-rate question. A firm is not one risk. The case asks you to notice which cash flows are the dull ones.

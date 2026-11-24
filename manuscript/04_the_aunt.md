@@ -63,6 +63,34 @@ The other silence is the price. €42.40 is eight times operating profit, borrow
 3. If everyone sells in proportion, her stake stays 20 percent and her cash matches the dividend.
 4. The firm cannot pay her €1,200,000 and buy the line in the same breath. The line wants €2,700,000. The cash, after her cheque, is €1,200,000.
 
+## Exhibit 4. Two ways to hand Ingrid €240,000
+
+The ruler, borrowed from chapter 6 and used here only as a ruler: equity €42,400,000, one million imaginary shares, €42.40 each. Ingrid starts with 200,000 of them.
+
+| | Dividend | She is the only seller | Everyone sells in proportion |
+| --- | ---: | ---: | ---: |
+| Cash in her hand, gross | 240,000 | 240,000 | 240,000 |
+| Her fraction afterwards | 20% | 17.7% | 20% |
+| Cash left in the firm | 1,200,000 | 1,200,000 | 1,200,000 |
+| Pencil tax at 26.375%, if it even applies | 63,300 | ask her adviser | ask her adviser |
+| She keeps, if that pencil tax is right | 176,700 | not the same tax | not the same tax |
+
+Do not let the last two rows travel into the meeting as facts. They are the lecture's tax, for a private investor on a simple dividend. A 20 percent holder of a GmbH often lives under a different rule. The gross €240,000 is safe to say. The €176,700 is safe to hand to the adviser, with a question mark.
+
+## The month, on one page
+
+| Need | € |
+| --- | ---: |
+| Cash today | 2,400,000 |
+| Ingrid, if you say yes to the whole request | 1,200,000 |
+| Left after her cheque | 1,200,000 |
+| The line and its parts, if you also say yes | 2,700,000 |
+| Hole, if both yeses land in the same month | 1,500,000 |
+
+**Write this down.** A phased promise: €400,000 now, and €800,000 after the line's first customers have paid. Does the firm still need Sabine in order to sign for the machine?
+
+Cash after €400,000 is €2,000,000. The machine and the parts want €2,700,000. The hole shrinks from €1,500,000 to €700,000. It does not disappear. Phasing is a kindness to Ingrid and still a phone call to the bank. Say both halves of that sentence, or the meeting will hear only the kindness.
+
 ## In the room
 
 The question is the payout question. Dividend or buyback, and does the pie change? The page the case leaves out is the other use of the same cash, sitting in the next folder, and the law of the country the firm is actually in.

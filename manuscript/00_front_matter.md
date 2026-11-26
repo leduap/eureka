@@ -82,4 +82,6 @@ Sabine Keller is the relationship manager at the house bank. She has known Klaus
 11. A dollar subsidiary is a second set of books.
 12. An option is a choice with a price, not a favour.
 
+After the twelve chapters there is one afternoon, the pack, in which the decisions are on the table together. They did not all happen on the same morning. A firm does not have that kind of tidiness. The pack is there so that a number from one chapter cannot sneak into another chapter and pretend it still means the same thing.
+
 If you remember only the blue pages, keep them. If you remember only one sentence, remember this. The course is not wrong. It is the first page. The grade is given before the number exists.

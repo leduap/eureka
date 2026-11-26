@@ -92,6 +92,54 @@ Both numbers above pretend a buyer can sell on Monday. Ingrid's buyer cannot. He
 
 €8,480,000 × 0.75 = **€6,360,000**. That is a number Ingrid can hate in a specific way, which is more useful than hating a range.
 
+## How €4,200,000 was earned, and what it is not
+
+Klaus has asked for one number because ranges have been used, in this family, as a way of not deciding. Leonie's refusal to average is not a refusal to help. It is the help. A single number that nobody believes will be repeated as if someone did.
+
+Start from the year, and do not skip a line, because the cash figure is where a valuation is usually quietly improved.
+
+Operating profit is €6,000,000. Tax at the teaching rate of 30 percent is €1,800,000. What remains is €4,200,000. Depreciation was €1,200,000. If the firm spends the same €1,200,000 on machines just to stay the same size, that spending uses up the depreciation you might have been tempted to add back. Customers and inventory, if they do not grow, swallow no extra cash. The cash you could hand to the bank and the family, together, is €4,200,000 a year. Free cash flow is a grand name for a year in which the firm does not grow and replaces what wears out. Say the assumptions in the same breath as the number. A listener who hears only €4,200,000 will hear a promise. You have not made one. You have described a photograph.
+
+At 6 percent, a stream that never grows and never shrinks is worth the stream divided by the rate. €4,200,000 / 0.06 = **€70,000,000**. That is the business, not the shares. Net debt is €5,600,000. The family's claim is **€64,400,000**. If you used the unrounded 5.99 percent you would be about €110,000 higher on the business. The ledger's exact pair, at that unrounded rate, is a business of €70,110,236 and equity of €64,510,236. Do not lose a Sunday to €110,000 on a gap that is measured in millions. Do mention it once, so that a careful Martin cannot accuse the page of hiding a rate he watched you round in chapter 2.
+
+The peer is a different question wearing the same suit. Nordmess is talked about at eight times operating profit. Eight times €6,000,000 is **€48,000,000**. Minus the same €5,600,000, the family would be worth **€42,400,000**. Ingrid's 20 percent on this ruler is €8,480,000. This is the price behind the imaginary €42.40 share in chapter 4, and it is still a ruler, not an offer. Nordmess itself, in the teaching version of the rumour, has €50,000,000 of operating profit, eight times that is €400,000,000 for the business, net debt of €40,000,000, equity of €360,000,000. You do not need Nordmess's size to use the multiple. You need it so that nobody in the room pretends Hartfeld is Nordmess. A multiple is a claim that the two firms are the same kind of thing. They are the same kind of thing only as far as the room is willing to say so out loud, and a listed firm with many factories is not a private firm with one family and a house bank. The multiple ignores that until you put it back as a discount.
+
+## Why the gap is a sentence, not a compromise
+
+Divide €4,200,000 by €48,000,000 and you get 8.75 percent. The peer's ruler behaves like a buyer who wants **8.75 percent** on the same steady cash, not 6. Or it behaves like a buyer who does not believe the €4,200,000 will last. You cannot tell which story from the multiple alone. That is why the multiple is a worse teacher than it is a ruler, and why averaging it with the cash value, and telling Klaus €59,000,000, produces a number nobody in the room actually believed. The average is a cover-up with a calculator.
+
+Say the two questions in Klaus's language. €70,000,000 says: the next many years look like last year, and a euro of that cash is worth six cents of return, forever, and we are not growing. €48,000,000 says: a listed peer is priced at eight times operating profit, and a stranger might start from there. The distance between €64,400,000 and €42,400,000 of equity is the argument. Ingrid's 20 percent is **€12,880,000** on the cash and **€8,480,000** on the multiple, before anyone talks about the fact that her buyer cannot sell on Monday.
+
+For the calibration line, 6 percent was enough. The line is a small bet on the firm's own factory. The risk matches the rate, near enough, and the line cleared Martin's harsher 8 percent as well. Do not let that success promote the 6 percent into a price for a person's shares. A machine and a stake in the family are different sales. The buyer of the machine is Hartfeld. The buyer of Ingrid's shares is someone who will be stuck with Klaus.
+
+A buyer who cannot sell on Monday will ask for a discount. The course is right to give the discount a name. The meeting is right to argue the size. Ten percent is a mood. Thirty percent is a different deal. Do not pick one in an appendix and call it science. At a 25 percent discount to the multiple, applied to the €8,480,000 because that buyer is already standing on the peer and not on your hope, 20 percent is worth **€6,360,000**. That is a number Ingrid can hate in a specific way. Specific hatred is more useful than a range, because a range lets everyone leave thinking their own number won.
+
+What would change the discount is also specific. A path for the buyer to be bought out later. A seat. A dividend that is not a surprise. A year of accounts that do not depend on a December truck. None of these is a formula. All of them are negotiable, which means they belong in the room and not in a footnote that pretends they have been measured.
+
+## The photograph, and the ways it lies
+
+No growth was an assumption, not a discovery. The €70,000,000 assumes Hartfeld never sells more than €40,000,000 and never needs extra inventory or extra customer credit to do it. A firm that grows can have more cash later and less cash now, because growth eats parts and invoices. Growing can reduce the value you can hold in your hand this decade even while it increases the value of a story about the decade after. The course has a formula for a growing stream. It can wait until someone claims the firm is about to double. Nobody in this family is claiming that, except the engineer with the gauge, and chapter 2 already showed that his optimism does not survive a harsh rate. If Klaus asks "what if we grow a little," the honest first answer is: then this photograph is the wrong object, and we should not smear a growth rate onto it in the meeting in order to make Ingrid's number larger. Growth has to pay for the cash it consumes. A valuation that adds growth and forgets the inventory is a valuation that has double-counted the pleasant half.
+
+The bank is the other way the photograph lies. Subtracting €5,600,000 euro for euro is fair if the debt is cheap, long, and quiet. If Sabine can ask for it back when the ratios in chapter 3 break, the debt is shorter than a subtraction suggests, and the family's claim is riskier than the arithmetic looks. Bring the fence into the room when the value is for a sale of shares. Leave it outside when the value is for a machine. The same net-debt figure does two jobs. Label the job at the top of the page.
+
+Piotr's question is the one that keeps the photograph honest. What is the cash after the line, after Ingrid is paid, and after a bad year? Last year is not a promise. You have valued a year that has closed. A buyer is not buying the photograph unless you have promised, in a contract or in a sentence you are willing to repeat, that the year will continue. Do not make that promise by accident, in the way you present the number.
+
+Jonas will say cash is a theory and multiples are what people pay. He is right that a buyer arrives with a multiple and a lower offer. Let him play that buyer in the meeting, so Klaus can hear the offer before it is real. Do not let him write the minutes, or the minutes will contain only the multiple and the cash will survive as a "cross-check" nobody reads. Amina's page is the page: cash as the method, peer as the other answer, the gap explained, the average refused. If the gap cannot be explained, you are not ready to speak. The exhibit in this chapter is the explanation. If you cannot say "8.75 percent, or a doubt that the cash lasts" without looking down, you do not yet know why the two numbers differ.
+
+## What she puts in the file
+
+Klaus asked for one number. The file gives him a sentence and refuses the compromise.
+
+On last year's cash, with no growth, at 6 percent, the business is €70,000,000 and the equity is €64,400,000. Ingrid's 20 percent is €12,880,000. On eight times operating profit, the business is €48,000,000 and the equity is €42,400,000. Her 20 percent is €8,480,000. The gap is an 8.75 percent buyer, or a buyer who does not believe the cash continues. We do not average them to €59,000,000.
+
+A buyer who cannot sell on Monday will try to pay less than both. At 25 percent off the multiple, her 20 percent is €6,360,000. That discount is a negotiating position, not a measurement. It moves if he is given a way out, a seat, or a dividend he can predict.
+
+This file does not set the price at which she sells. It sets the two answers the room is allowed to argue from. The original cheque for any machine is irrelevant here. The photograph is last year. If last year was flattered by a December truck or a missing warranty, chapter 8 says the photograph was already kind, and both values inherited the kindness.
+
+## How the course marks a range
+
+A range is not a failure if the two ends are methods. A range is a failure if it is two moods. Full marks: both values, the 8.75 percent sentence, the refusal to average, and a discount that is labelled as a negotiation. A student who brings Klaus €59,000,000 "to be helpful" has been helpful in the way a fog is helpful. A student who brings only the multiple, because "that is what people pay," has ignored the only cash the family has ever seen. A student who brings only the €70,000,000, because the method is purer, will be robbed in the negotiation by a buyer who never took the course. The mark is for holding both without blending them.
+
 ## In the room
 
 The question is the valuation question. Cash versus a peer, and what you do when they disagree. The page the case leaves out is the photograph: last year, offered as if it were a promise.

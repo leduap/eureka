@@ -197,7 +197,7 @@ def main() -> None:
     implied_yield = fcff / hart_ev_multiple
     print("\nVALUE")
     print(f"fcff {eur(fcff)} ev dcf {eur(ev_dcf)} equity dcf {eur(eq_dcf)}")
-    print(f"nord ev {eur(nord_ev)} equity {eur(nord_equity)}")
+    print(f"nord ebit {eur(nord_ebit)} nd {eur(nord_nd)} ev {eur(nord_ev)} equity {eur(nord_equity)}")
     print(f"hart at 8x ebit ev {eur(hart_ev_multiple)} equity {eur(hart_equity_multiple)}")
     print(f"implied fcff yield on the multiple {pct(implied_yield)}")
     # growth that reconciles 8x with a 6% WACC: Gordon EV = fcff*(1+g)/(wacc-g)
@@ -374,6 +374,18 @@ def main() -> None:
 
     flattery_share = warranty / gross
     print(f"warranty flattery as a share of gross profit {flattery_share:.5f}")
+
+    # Year-by-year present value of the calibration line, so the annuity can be checked by hand.
+    print("\nLINE YEAR BY YEAR")
+    for t in range(1, years + 1):
+        print(f"year {t} at 8% {eur(a_ocf / 1.08**t)} at 6% {eur(a_ocf / 1.06**t)}")
+    undisc = a_ocf * years
+    undisc_surplus = undisc + a_nwc - a_capex - a_nwc
+    print(f"five cash flows undiscounted {eur(undisc)} surplus if parts come back {eur(undisc_surplus)}")
+    running = -a_capex - a_nwc
+    for t in range(1, years + 1):
+        running += a_ocf
+        print(f"cash recovered by end of year {t} {eur(running)}")
 
     # per-share and a few check totals
     print("\nCHECKS")

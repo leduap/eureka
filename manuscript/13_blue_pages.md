@@ -99,3 +99,31 @@ A right the other side will use only when it hurts you has a price.
 Write the price on the quote, or do not give the right.
 
 A monthly option sold for income, in a brokerage account, is not this decision. Do not let the shared word do the thinking.
+
+## The twelve, done once on Hartfeld
+
+The lines above are the ones to copy. The lines below are the same twelve, with the firm's euros still attached, so that a copy does not become an abstraction on the train home. When the firm changes, change the euros. Do not change the lines.
+
+**1.** Cash from the calibration line is €690,000 a year, not the €300,000 of operating profit. Depreciation of €480,000 was the cheque being spread. At 8 percent the net present value is €259,145, and February is still €300,000 overdrawn if the machines and the parts are paid before anyone pays you. A yes that cannot name Sabine is not a yes yet. If the revenue is only €1,200,000, cash is €480,000 and the value is −€579,324 at 8 percent. One column of revenue is a column that has already voted.
+
+**2.** The letterhead's blend is 5.99 percent, called 6: equity at 7.5 percent, debt at 3.5 percent after tax, book weights because there is no share price. The gauge is €179,811 at that rate and −€213,898 at 12 percent. A beta of 1.20 on the firm itself still only produces a weighted average of 6.92 percent. Martin's 8 percent is a family habit on top of the method. The gauge does not inherit the habit, and it does not inherit the 6.
+
+**3.** Do not add €2,400,000 of shield to a value you already computed at 6 percent. With €6,000,000 of new debt, a bad year of €4,000,000 EBITDA breaks both lines of the fence: 2.90 and 3.84. Interest is €730,000, because the old loan stays at 5 percent. Room for new debt, at a cover of 4 in that bad year, is €5,454,545, and only if the cash does not shrink. Size to the bad year. Then read the back page for a guarantee.
+
+**4.** Ingrid's gross piece of a €1,200,000 dividend is €240,000. The lecture's tax is €63,300 and €176,700 kept, in pencil. If she is the only seller at the imaginary €42.40, her stake falls to about 17.7 percent. The machines wanted €2,700,000. The full cheque does not fit in the same month. Cash to owners is cash the firm no longer has. The pie does not grow because you sliced it.
+
+**5.** Nordmess down 9 percent on a headline you finished an hour later is not a coupon. An index fund buys what the index adds, that day, because it promised. Your edge is the order book of this firm, and it expires when the customers do something else.
+
+**6.** €4,200,000 a year at 6 percent is a business of €70,000,000 and equity of €64,400,000. Eight times operating profit is €48,000,000 and €42,400,000. Ingrid's fifth is €12,880,000 or €8,480,000. At 25 percent off the multiple it is €6,360,000, and that discount is a negotiation. The average of the two equities is not a method. Last year is a photograph.
+
+**7.** The order's profit is €2,400,000. The cash tied up is €3,600,000 for ninety days. Interest is €44,384. Thirty days of that interest is €14,795, which is not worth an €80,000 price cut. Ordinary cash is already out for 73 days. Scrap, if a special order is cancelled, is the larger number, and it does not fall out of the interest formula.
+
+**8.** The 28 December truck can be revenue of €900,000. Cash in December is zero. The 4 percent dent is €36,000, and profit left is €324,000. The flattery from skipping it is 0.225 percent of the year's gross profit. Anyone paid on the booking should be assumed to be in the room when you estimate the dent.
+
+**9.** Known at the start, €900,000 of revenue would have made the line −€1,338,484 at 6 percent. After the cheque is spent, keeping is worth €1,361,516 and the dealer plus the parts is €1,800,000. Stopping is ahead by €438,484. The original €2,400,000 does not vote. A smaller offer can reverse the answer. That is what a new decision is.
+
+**10.** Munich, before adjustments, is 32.975 percent. On €5,600,000 the tax is €1,846,600 against a convenient €1,680,000. The line's cash falls from €690,000 to €681,075. A clear yes stays a yes. A yes of €50,000 does not. Depreciation of €1,200,000 shields €360,000 at the working rate, with no cheque. The instalment dates do not move because a customer asked for ninety days.
+
+**11.** $4,000,000 is €3,703,704 at 1.08 dollars per euro and €3,508,772 at 1.14. The gap of €194,932 is cash only if the dollars will be exchanged. A hedge at 1.09 locks in €3,669,725 and costs €33,979 against the plan. Divide. Do not multiply. Hedge the pile you will exchange, not a target, and not a wage bill already in dollars.
+
+**12.** The weight is 0.45, and it is not a forecast. The right is worth €175,610, which is 7.3 percent of the €2,400,000 gross profit. Half the pain is still €87,805. Write the price on the quote, or do not give the right. A monthly option sold for income is a different book.

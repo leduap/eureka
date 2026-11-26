@@ -121,6 +121,72 @@ At 8 percent the net present value is **−€579,324**. At 6 percent it is stil
 
 You refuse. A line that only returns its own depreciation, and only as a tax-free add-back, does not pay for itself. This is the version Martin should have been shown beside the hopeful one. A case with a single column of revenue is a case that has already chosen the answer.
 
+## Five years, one at a time
+
+The factor 3.99271 is a convenience. It is five separate discounts, added up, so that a meeting does not have to watch you divide five times. You should be able to do the five divisions anyway, because the day the cash is not the same every year the factor is a lie and the divisions are the work.
+
+At 8 percent a euro in one year is worth one divided by 1.08. A euro in two years is worth one divided by 1.08 twice. The line's €690,000, taken year by year, is worth this today. The ledger's figures, rounded to the euro, are €638,889, €591,564, €547,744, €507,171 and €469,602 at 8 percent. At 6 percent the same five years are €650,943, €614,098, €579,337, €546,545 and €515,608.
+
+| Year | At 8 percent | At 6 percent |
+| --- | ---: | ---: |
+| 1 | 638,889 | 650,943 |
+| 2 | 591,564 | 614,098 |
+| 3 | 547,744 | 579,337 |
+| 4 | 507,171 | 546,545 |
+| 5 | 469,602 | 515,608 |
+
+Add the 8 percent column and you get €2,754,970, which is the same product the factor gave you: €690,000 × 3.99271. The factor did not know something the five lines do not know. It only saved the ink. If a later year is worse than an early year, throw the factor away and keep the lines. The calibration case is kind enough to be flat. Most Tuesdays are not.
+
+Look at the slope. The fifth year is worth €469,602 today, not €690,000. Almost a third of it has been eaten by the wait. That is the whole chapter, in one cell. People who say "but we get the money back" are looking at the year-five cell in the cash column, not in the today column.
+
+At 6 percent the same five years are heavier. Year five alone is €515,608 instead of €469,602. Nothing in the factory changed. The claim about what a wait costs changed. This is why Martin's 8 percent is a stricter family habit than the 6 percent the next chapter will build, and why a lower hurdle makes the line more attractive rather than less. If that sentence still feels backwards, stay on this table until it does not. A cheaper wait means a later euro is less cheap. You want later euros. You should prefer the cheaper wait.
+
+## The sum that looks like a yes and is not a method
+
+Add the five cash flows without discounting them. Five times €690,000 is **€3,450,000**. Add the parts coming home, €300,000, and subtract the €2,700,000 you gave up. You are left with **€1,050,000**, which is a pleasant number and not a decision.
+
+It is pleasant because it pretends a euro in year five can be spent on wages in year one. It cannot. The €1,050,000 is the surplus if the family is indifferent to time, which no family with a bank is. The course is rude about this sum on purpose. Students who have done well at accounting arrive believing that a total is an argument. A total across years is a list that has been added too soon.
+
+Payback, the cousin of that sum, asks a different rude question. How long until the cash given up has come back, ignoring what the wait itself cost? After one year the firm is still €2,010,000 short. After two, €1,320,000 short. After three, €630,000 short. After four, it is €60,000 ahead, and the parts have not even been counted in that recovery because the parts come back at the end as a stock release, not as a year's trading cash. The line "pays back" in the fourth year. Families love this sentence. It sounds like prudence. It is silent on everything after the fourth year, and it is silent on the fact that the fourth year's euro is not worth a euro. A line that pays back in year four and then dies can look like this line in the payback column and be worth nothing in the present-value column. Do the payback if Klaus asks for it. Do not let it vote.
+
+There is a third hurdle already in the ledger, and it is useful as a mood rather than as a policy. At 10 percent the same line is still a yes, with a net present value of **€101,919**. The factor is 3.79079. The decision has now survived 6, 8 and 10. That is a different kind of comfort from a large number at a single rate. A yes that dies when you move the rate by two points was a close yes. This one is not close. Say that to Klaus. He has spent a career being offered close yeses dressed as obvious ones.
+
+## Three papers, marked
+
+Imagine the three classmates have handed the page in, and you are the person with the pencil. This is the part of the course the case discussion rushes, and it is where the marks actually move.
+
+Jonas has written: borrow €300,000, interest is €5,000, value is €259,145, net €254,145, buy. The arithmetic of the interest is right. The subtraction is the mistake. He has taken a present value, which is already today's euros, and subtracted a future interest charge as if it were also today's euros, and he has done it once, not as a discounted scrap of cost. Four months of interest is small enough that the decision does not flip. The method would flip a closer project. More quietly, he has assumed the bank says yes. Sabine's yes is not a line you may write in pencil under the net present value. It is a conversation with a covenant, and chapter 3 is that conversation. Jonas has done the banking summer correctly and the capital-budgeting hour incorrectly, which is a very common way to be impressive.
+
+Amina has written a framework with four boxes: strategic fit, financial return, risk, implementation. The calibration line sits in all four, and the boxes are empty of numbers except a copied €259,145 in the second box. Frameworks are how a room avoids a number. They are also how a room remembers which number it forgot. Hers is useful the moment the implementation box contains the sentence "€300,000 overdrawn in February, Sabine to cover, customers start to refill after sixty days." Without that sentence the framework is furniture. With it, the framework is the Monday rule wearing a consulting suit. Keep the suit if the board likes suits. Do not keep an empty box.
+
+Piotr has crossed out "sixty days" and written "ask the salesperson who has actually collected from a new workshop." He has not computed a new net present value, because he does not yet have a new collection lag he believes. This is the right refusal. A case that hands you sixty days has already done the hopeful part of the credit work. Your job is to notice that the number arrived from the person who wants the machine. He then writes, under the thin-revenue column, that he would like that column in the board pack next to the hopeful one. He is right, and he is the reason the second cold call exists. A pack with one revenue is a pack that has chosen.
+
+If you are marking: Jonas loses a mark for subtracting interest from a present value and gains the mark back if he shows the €5,000 is too small to matter and still names Sabine. Amina loses a mark for a box with no month in it. Piotr keeps the marks if he refuses to invent a collection lag, and loses them if he refuses the whole method and will not say yes or no at 8 percent. The method is not the enemy. The single column is the enemy.
+
+## What she puts in the file
+
+Leonie's note to Martin, the one that should exist before lunch, is short enough to read standing up. It is also long enough that a person in a year can see what was assumed. The course rewards the standing-up version. The job rewards both.
+
+She writes:
+
+The line is a yes at the family's 8 percent. Net present value €259,145. It is a larger yes at 6 percent, €430,708, and it is still a yes at 10 percent, €101,919. Cash from the line is €690,000 a year, not the €300,000 of operating profit. Depreciation of €480,000 is the cheque being spread, not a second cheque.
+
+February is €300,000 overdrawn if the machines and the parts are paid before any customer pays. Interest on that hole for four months at 5 percent is €5,000. The hole is not the reason to refuse. The hole is the reason to speak to Sabine before the order is signed. The salesperson's sixty days is a hope, not a term in a contract she has seen.
+
+If revenue is only €1,200,000, operating profit is zero and cash is €480,000 a year. Net present value is −€579,324 at 8 percent and −€453,888 at 6 percent. That column should sit beside the hopeful one in the pack. A pack with one column has already voted.
+
+Nothing in that note is a new method. It is the chapter, filed. The reason to write it this way is so that October, when the revenue is disappointing, has a page to disagree with. Chapter 9 is that disagreement. A decision that was never written down cannot be revised. It can only be defended, which is how families keep bad machines.
+
+## How the course uses the hour
+
+A ninety-minute session on this material is not ninety minutes of arithmetic. The arithmetic, done cleanly, is twenty minutes, and you have just done it. The rest of the hour is the fight about what is allowed to count as cash, and the fight about whether a positive number is a permission.
+
+The first fight is depreciation. Someone in every room wants to treat it as money leaving. Someone else wants to ignore tax. Someone else wants to discount the operating profit instead of the cash. All three produce a no, or a much smaller yes, and all three feel careful. Careful is not the same as correct. The correct carefulness is to count the cheque once, tax the profit once, and add back the allocation you deducted. If you cannot say that sentence without looking down, you are not ready for the second fight.
+
+The second fight is the bank balance. The course, timed as a course, often ends when the net present value is positive, because that is the technique the examination can mark. The firm does not end there. A technique that cannot see February is a technique for a world in which suppliers wait and customers pay in advance. Hartfeld does not live in that world. You already know the ordinary customers take about forty-six days. New ones will not be faster because a spreadsheet hoped they would.
+
+Take one more pass, with the folder half shut, before you leave the chapter. Say the cash. Say the three rates and the three values. Say the month the balance is lowest and the name of the person who covers it. Say the thin column out loud, including the two negative values. If you can do that, you have the session. The exhibit is the card. The session is the reason the card is not dangerous.
+
 ## In the room
 
 The question is the capital-budgeting question. Will you commit cash today for cash later, and did you count only cash? The page these cases often skip is the month the cash is gone and the customers have not started paying.

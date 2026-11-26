@@ -16,9 +16,10 @@ Every euro is produced by `ledger/ledger.py`. If the prose and the ledger disagr
 
 1. `00_front_matter.md`
 2. `01_a_later_euro.md` through `12_a_priced_choice.md`
-3. `13_blue_pages.md`
-4. `14_sources_and_notes.md`
-5. `15_one_hour.md` last, with the folder shut
+3. `12b_the_pack.md`, the twelve decisions in one afternoon
+4. `13_blue_pages.md`
+5. `14_sources_and_notes.md`
+6. `15_one_hour.md` last, with the folder shut
 
 ## Check the figures
 

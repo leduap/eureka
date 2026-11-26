@@ -78,6 +78,42 @@ You have sold dollars you needed. The wages still want dollars. You now have a e
 
 If you cannot answer the first, you are not ready for the second. The bank will sell you the second anyway. That is not the same as it being your position.
 
+## Divide, and say the direction out loud
+
+The arithmetic is the easy part, and it is the part the meeting gets backwards. A euro buys 1.08 dollars in the plan. Dollars divided by dollars-per-euro are euros. $4,000,000 / 1.08 = **€3,703,704**. At 1.14, the same invoices are **€3,508,772**. The gap is **€194,932**. A higher number of dollars per euro means a cheaper dollar and fewer euros. Say that once, slowly, before anyone multiplies. Multiplication is the mistake of a person who has confused "the rate went up" with "we got richer." The rate, quoted this way, going up is the euro getting stronger and the dollar invoices getting smaller in the only currency the Munich wages are paid in.
+
+The tools did not get worse. The ruler did. Whether the €194,932 is a loss the bank will see depends on a fact the case hides because the fact is operational and the course prefers a rate. If Munich is owed the dollars and will exchange them, the loss is cash, or will be, on the day of the exchange. If the Ohio office is owed the dollars and will spend them on American wages and never send them home, the euro value of the office has shrunk on a page in Munich, and the wages have become cheaper in euros at the same time. Wealth moved between the way the books look and the way the American bills are paid. It did not necessarily move through the Munich bank account this year.
+
+The course has names. A transaction is a specific pile of foreign money you are going to convert. A translation is the restatement of a whole set of foreign books into the home currency. The names matter less than the question, and the question is worth writing on the whiteboard before the rate: **which dollars are going to be exchanged, and when?** If you cannot answer it, you are not ready for a forward, and the bank will sell you one anyway. A bank's willingness is not a description of your position. It is a description of the bank's product list.
+
+## What Klaus's sentence has pointing the wrong way
+
+The bank will convert the $4,000,000 at 1.09, if the dollars are a real future receipt. $4,000,000 / 1.09 = **€3,669,725**. Against the 1.08 in the plan, the hedge gives up **€33,979**. Against the 1.14 the world then produced, the hedge saves a great deal. You do not know the 1.14 when you buy the hedge. That is the reason it has a price. You are paying €33,979, in the teaching rates of this chapter, to stop caring about the path between the promise and the conversion.
+
+Klaus says he does not hedge because hedging is speculation. Leaving the receipt unhedged is the speculation. The firm has already done the commercial thing. It has promised tools for dollars. Doing nothing is a bet that the dollar will be kind between the invoice and the day the euros are needed. The hedge is how you stop having an opinion. Correct the sentence gently. He has been running a good firm, and the sentence is common among people who have been running good firms, because "we do not speculate" is a value, and the value has been attached to the wrong object.
+
+The correction has a second half, or it becomes a new mistake. If the dollars will be spent in Ohio on Ohio wages, a hedge that converts them into euros creates the position Klaus thought he was refusing. You have sold dollars you needed. The wages still want dollars. You now have a euro receipt and a dollar bill. That is a bet, opened by the instrument that was supposed to close one. Hedge the pile you will exchange. A salesperson's target is not that pile. A wage bill in the same currency as the sales is not that pile. Half a hedge, which is Jonas's offer, is a fraction with no owner. Half of a guess is not a policy. It is a way of looking balanced in a board pack.
+
+Amina's rule is the one that can be operated on a Monday. Hedge the portion that is invoiced and coming home within the year. Leave the rest until there is an invoice. Piotr's rule is better when the customer will accept it: price the big contracts in euros, or share a large move in the contract, so that the banking product is not doing the commercial job. You will not always get that clause. You should ask for it before you ask Sabine for a forward, because a forward on a badly written contract is a precise solution to the wrong pile.
+
+## The bit of the forward that is not fear
+
+The rates 1.08, 1.09 and 1.14 are teaching rates. A real forward price includes interest rates in both currencies, which is why the forward is not today's rate even before anyone has a view. The €33,979 in this chapter is the whole of the gap the case states. In life, part of a forward discount is interest, not fear. If Hartfeld hedges often, someone has to learn that split, or the firm will think it is paying for insurance when it is also paying, or receiving, a difference in interest. If Hartfeld hedges once a year, the split will not save it from hedging the wrong pile, and the wrong pile is the larger error. Do not let a sophisticated sentence about interest rates postpone the operational question. The operational question is cheaper to ask and more expensive to get wrong.
+
+Accounting has a second silence, and it is chapter 8 in another coat. A transaction loss turns up in profit. A translation of a subsidiary often turns up in equity, under the rules the firm has chosen, and may never pass through the profit people use for bonuses. A loss that misses the bonus is still a loss of wealth. Ask which page Sabine reads, and ask which page the bonus reads. If they are different pages, the firm will hedge the page that hits the bonus and ignore the page that hits the wealth, or the reverse, depending on who is in the room. Write down which page this year's dollars will hit before you decide whether the €194,932 matters to the people who have to explain the year.
+
+## What she puts in the file
+
+$4,000,000 is €3,703,704 at 1.08 and €3,508,772 at 1.14. The gap of €194,932 is cash if the dollars will be exchanged. It is a restatement if they will be spent in Ohio. We do not know which until someone says whether the money is coming home. That sentence is the file. The rates are not.
+
+If the dollars are invoiced and coming home, a hedge at 1.09 locks in €3,669,725 and costs €33,979 against the plan. The open position is the bet. We do not hedge a target, and we do not hedge wages that are already in dollars. Half is not a policy.
+
+The rates are teaching rates. A real forward includes interest in both currencies. That fact does not choose the pile.
+
+## How the course marks a ruler
+
+Full marks require the division, the direction, the €194,932 labelled as cash or as translation according to a fact, and the hedge described as the absence of an opinion. A student who multiplies, and gets a larger euro number when the dollar weakens, has failed the arithmetic and should not be rescued by a correct instinct about speculation. A student who hedges everything foreign "to be safe" has created positions the firm does not have. Safety is matching. It is not a product bought from a menu.
+
 ## In the room
 
 The question is the currency question. Which unit is the wealth in? The page the case leaves out is whether the money is coming home.

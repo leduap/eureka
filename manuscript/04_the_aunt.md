@@ -91,6 +91,56 @@ Do not let the last two rows travel into the meeting as facts. They are the lect
 
 Cash after €400,000 is €2,000,000. The machine and the parts want €2,700,000. The hole shrinks from €1,500,000 to €700,000. It does not disappear. Phasing is a kindness to Ingrid and still a phone call to the bank. Say both halves of that sentence, or the meeting will hear only the kindness.
 
+## The lecture, done at the speed of a person with a pencil
+
+Give the firm, only for this hour, a million imaginary shares. The ruler is the one chapter 6 will examine properly: eight times operating profit is €48,000,000 for the business, net debt of €5,600,000 comes off, equity is €42,400,000. Each imaginary share is **€42.40**. This is not a price anyone can deal at on Monday afternoon. It is a way to turn a percentage into a count of shares, so that "she sold some" becomes a number rather than a mood.
+
+Ingrid owns 20 percent, which is 200,000 of the imaginary shares. A dividend of €1,200,000 pays the holders in proportion. Her piece is **€240,000** gross. The firm has given up €1,200,000 of cash. She has received a fifth of it. Klaus has received three fifths, whether he wanted the roof or not, because a dividend on these shares does not know about roofs. Martin has received the remaining fifth. A payout policy that is really a gift to one person will annoy the other two, or it will be dressed up as a dividend and still be a gift. Know which one the meeting is.
+
+If her €240,000 were taxed as simple private investment income, the flat tax and the surcharge come to 26.375 percent. Tax is €63,300. She keeps **€176,700**. Write the gross in ink. Write the tax in pencil. A holder of 20 percent of a GmbH is often not in that simple box, and this book will not invent the assessment she has not shown anyone. The pencil exists so that a confident student does not walk into Sunday lunch with a net figure the adviser will cross out.
+
+Now the buyback, at the same imaginary price. €1,200,000 divided by €42.40 retires about 28,302 shares. The firm then has about 971,698 shares left.
+
+If Ingrid is the only seller, she sells 28,302 of her 200,000. She has 171,698 left. Her fraction falls from 20 percent to **17.7 percent**. She has cash, and she has less of whatever the firm becomes. Klaus and Martin have not sold. Their fractions of the remaining firm have risen. A buyback that is really one person leaving is a change of control in slow motion, and it should be discussed as that, not as a technique for being modern.
+
+If everyone sells in proportion, she sells a fifth of what the firm buys, receives the same €240,000, and still owns 20 percent of a slightly smaller firm. Her cash matches the dividend. Her stake matches the morning she walked in. On a listed company, with a real price, these two operations are the same pie cut with a different knife. The knife matters for tax, and it matters for anyone who is not invited to sell. It does not make the pie larger. Paying cash out does not enrich the family in total. It moves wealth from the firm's account to a person's account. The tax office keeps a slice on the way, so the family as a whole holds less than the firm gave up. Klaus, who means to leave his shares to Martin, may not want the move. Ingrid, who wants a house repaired, does. The argument is about who needs the cash this year. It is not about which instrument a lecture preferred.
+
+Profit after tax was €3,920,000. A payout of €1,200,000 is 30.61 percent of that profit. The retained profit, after the payout, is €2,720,000. Those ratios are the lecture's comfort. They describe the year as a photograph of earnings. They do not describe February's bank balance. Cash is €2,400,000. Half of it would leave. Earnings retention and cash retention are different sentences. A firm can retain profit and still be unable to pay a supplier, which is chapter 7 and chapter 8 sitting quietly in this meeting, uninvited and relevant.
+
+## The other folder on the same table
+
+The calibration line wants €2,700,000 before any customer pays: the machine and the parts. Cash after a full payout to the three owners is €1,200,000. The hole is €1,500,000, and that is before wages. The course separates payout from capital budgeting because the textbook has two chapters and the examination can be sat on a Tuesday and a Thursday. The firm has one bank account. The two chapters are a filing system. They are not a description of the month.
+
+A phased promise feels like a compromise and should be checked like a number. Pay €400,000 now. Cash left is €2,000,000. The line and the parts still want €2,700,000. The hole shrinks from €1,500,000 to €700,000. It does not disappear. Phasing is a kindness to a roof and still a phone call to Sabine. Say both halves, or the minute will record the kindness and forget the phone call. The grown-up sequence is dull. Decide whether the line is a yes, which chapter 1 already did at €259,145 even on the harsh family hurdle. Decide the month the cash is lowest. Then see what can go to Ingrid without making that month a surprise. If the honest answer is €400,000 this spring and the rest after the first customers of the line have paid, say that. A roof can be phased. A covenant is less sentimental.
+
+There is a version of this meeting in which Martin says the buyback is better because "dividends signal." He heard that in a lecture about listed shares, where a regular dividend is a promise the market punishes you for breaking, and a one-off buyback is a way to hand cash out without resetting the promise. Hartfeld has no market to signal to. The three shareholders are in the room. They can be told the truth in a sentence. A signal is what you use when you cannot talk. They can talk. Using a listed-company habit here is not sophistication. It is a refusal to have the conversation the ownership actually requires, which is whether Ingrid wants to be smaller in the firm.
+
+Ask her that, in those words. If she wants cash and the same 20 percent, it is a dividend, or a purchase in which Klaus and Martin also sell a slice, which they will hate if they have to find the cash themselves. If she wants out, it is a purchase of her shares at a price the three of them will argue about for a year. Chapter 6 is that argument. €42.40 is a ruler borrowed from a listed peer. If she sells at that ruler and the peer was the wrong one, someone at Sunday lunch has been cheated, and this chapter will have been the scene of the cheat if you let the ruler pass as a price. Do not settle her exit here. Settle the calendar.
+
+## What the law is doing while the lecture talks
+
+A German private company does not buy its own shares the way a listed American company does. There is a notary in the sentence. There are rules about not paying out the capital the creditors are relying on. None of that is in the lecture Martin remembers, and none of it is optional because a textbook was elegant. The blue page can still be true: cash to owners is cash not in the firm. The paperwork is a lawyer's chapter. Your job is to know that the paperwork exists, so that you do not promise Ingrid a buyback on a Friday and discover the notary on a Monday.
+
+Creditors are the people the capital-maintenance rules were written for. Sabine is one of them, whether or not anyone in the family likes to say so. A payout that leaves the firm unable to meet the fence in chapter 3 is a payout the bank will read as a choice, not as a family matter. Show her the calendar before the cheque, not after. Surprising a house bank with a dividend is a way to spend twenty years of relationship in an afternoon.
+
+## What she puts in the file
+
+The file has three columns and a refusal.
+
+Dividend: Ingrid receives €240,000 gross, keeps 20 percent, firm keeps €1,200,000 of cash. Tax at 26.375 percent would be €63,300 and she would keep €176,700, if and only if her adviser says she is in that box.
+
+She is the only seller, at the imaginary €42.40: she receives the same gross cash, and her stake falls to about 17.7 percent. That is an exit in part, not a dividend with a different name.
+
+Everyone sells in proportion: her cash matches the dividend and her stake stays 20 percent. Klaus and Martin must also take cash, or the proportion is a fiction.
+
+The firm cannot do the full €1,200,000 and sign for the line in the same month. The hole is €1,500,000. A phased €400,000 leaves a hole of €700,000. Sabine is still in the sentence.
+
+The price of any shares she actually sells is not settled in this note. The ruler is a ruler. Chapter 6 opens it.
+
+## How the course marks a knife
+
+Students who say "buybacks are better" without saying for whom, in which country, and in which month, have remembered a lecture and missed the firm. Students who compute 17.7 percent and then ignore the line's €2,700,000 have done the algebra and missed the bank account. The mark is for holding both: the pie does not grow, and the cash has another job. A third of the mark, in a proper session, is for writing the tax in pencil. False precision about Ingrid's net receipt is how a junior looks clever and a family looks misled.
+
 ## In the room
 
 The question is the payout question. Dividend or buyback, and does the pie change? The page the case leaves out is the other use of the same cash, sitting in the next folder, and the law of the country the firm is actually in.
